@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  background: #F5F4F0;
+}
+
+h2[data-txt="UP-Text"] {
+  text-transform: uppercase;
+  color: #E1624F;
+}
+
+h2[data-txt="Color-Text"] {
+  color: #E1624F;
+}
+
+section h2 {
+  color: #1B1B1B;
+}
